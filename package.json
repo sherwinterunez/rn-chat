@@ -1,0 +1,29 @@
+{
+  "name": "rn-chat",
+  "version": "0.0.10",
+  "description": "rn-chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "sherwinterunez@react-native-action-sheet": "git+https://github.com/sherwinterunez/react-native-action-sheet.git",
+    "md5": "^2.1.0",
+    "moment": "^2.13.0",
+    "react-native-communications": "^2.1.0",
+    "react-native-dismiss-keyboard": "^1.0.0",
+    "react-native-invertible-scroll-view": "^1.0.0",
+    "react-native-parsed-text": "^0.0.15",
+    "shallowequal": "^0.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sherwinterunez/rn-chat.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sherwinterunez/rn-chat/issues"
+  },
+  "homepage": "https://github.com/sherwinterunez/rn-chat#readme"
+}

@@ -7,7 +7,7 @@ import {
   View,
 } from 'react-native';
 
-import ActionSheet from '@exponent/react-native-action-sheet';
+import ActionSheet from '@sherwinterunez/react-native-action-sheet';
 import dismissKeyboard from 'react-native-dismiss-keyboard';
 import moment from 'moment/min/moment-with-locales.min';
 

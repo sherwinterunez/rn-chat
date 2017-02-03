@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "sherwinterunez@react-native-action-sheet": "git+https://github.com/sherwinterunez/react-native-action-sheet.git",
+    "@sherwinterunez/react-native-action-sheet": "git+https://github.com/sherwinterunez/react-native-action-sheet.git",
     "md5": "^2.1.0",
     "moment": "^2.13.0",
     "react-native-communications": "^2.1.0",
